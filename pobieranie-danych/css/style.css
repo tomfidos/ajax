@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+#button {
+    text-transform: uppercase;
+    background-color: yellowgreen;
+    color: blue;
+    font-weight: bold;
+    margin: 1em;
+    padding: 1em;
+}
